@@ -1,7 +1,5 @@
 package com.valoores.user_management_service.dto;
 
-import java.util.UUID;
-
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

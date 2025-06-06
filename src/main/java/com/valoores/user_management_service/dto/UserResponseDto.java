@@ -1,7 +1,6 @@
 package com.valoores.user_management_service.dto;
 
 import java.time.LocalDate;
-import java.util.UUID;
 
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;

@@ -1,7 +1,5 @@
 package com.valoores.user_management_service.repository;
 
-import java.util.UUID;
-
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
